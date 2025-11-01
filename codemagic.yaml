@@ -9,6 +9,7 @@ workflows:
       # Set the Java version
       java: 17
       # Set the Android SDK version
+     
       android_sdk: 34
       # Define environment variables for signing credentials
       # These variables must be set in Codemagic UI (Environment Variables tab)
